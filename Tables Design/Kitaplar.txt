@@ -1,0 +1,5 @@
+
+KitapId		int		primary key + is identity
+KitapAdi	varchar(50)
+YayınTarihi	smalldatetime
+Ssayisi		smallint

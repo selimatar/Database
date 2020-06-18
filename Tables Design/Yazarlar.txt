@@ -1,0 +1,4 @@
+
+YazarNo		int
+KitapId		int
+YazarAdSoyad	varchar(50)
